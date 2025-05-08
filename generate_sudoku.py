@@ -1,1 +1,1 @@
-print()
+print('generate_sudocku')
